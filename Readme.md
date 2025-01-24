@@ -39,8 +39,8 @@ A **Caching Proxy Server** works by intercepting HTTP requests from a client and
 1. **Clone the repository**:
 
    ```bash
-   git clone <your-repository-url>
-   cd <project-directory>
+   git clone git@github.com:Kshat111/caching-server.git
+   cd caching-server
    ```
 
 2. **Install dependencies**:
